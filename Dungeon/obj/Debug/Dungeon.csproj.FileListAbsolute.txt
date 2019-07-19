@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2015\Projects\Dungeon\Dungeon\bin\Debug\Dungeon.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Dungeon\Dungeon\bin\Debug\Dungeon.exe
+c:\users\student\documents\visual studio 2015\Projects\Dungeon\Dungeon\bin\Debug\Dungeon.pdb
+c:\users\student\documents\visual studio 2015\Projects\Dungeon\Dungeon\obj\Debug\Dungeon.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Dungeon\Dungeon\obj\Debug\Dungeon.exe
+c:\users\student\documents\visual studio 2015\Projects\Dungeon\Dungeon\obj\Debug\Dungeon.pdb
+c:\users\student\documents\visual studio 2015\Projects\Dungeon\Dungeon\bin\Debug\DungeonLibrary.dll
+c:\users\student\documents\visual studio 2015\Projects\Dungeon\Dungeon\bin\Debug\DungeonLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\Dungeon\Dungeon\bin\Debug\DungeonMonsters.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\Dungeon\Dungeon\bin\Debug\DungeonMonsters.pdb
