@@ -43,7 +43,7 @@ namespace Dungeon
             Player player = new Player("Night Hunter", 70, 5, 40, 40, Race.Beast, radWeapon);
             #endregion
 
-            #region IDKWHYBUTDONTTOUCH
+            #region 
 
 
             //TODO 2. Create a do while
@@ -56,10 +56,7 @@ namespace Dungeon
 
                 #region Beasts
 
-                //Rabbit
-                //Rabbit r1 = new Rabbit();//Uses the default constructor which sets some default values and creates a baby bunny
-                //Rabbit r2 = new Rabbit("White Rabbit", 25, 25, 50, 20, 2, 8, "That's no ordinary rabbit. Look at the bones", true);                             
-                //Since all of our child monsters are the same type, we can store them in an array of rabbits. 
+               
                 //Since all monsters are children of monster, we could store them in a monster[].
                 Amygdala amg = new Amygdala();
                 MoonPresence mp = new MoonPresence();
